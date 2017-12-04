@@ -10,6 +10,7 @@ using System.Web.SessionState;
 
 namespace ProductFeatureDemonstration
 {
+    //
     public class Global : HttpApplication
     {
         void Application_Start(object sender, EventArgs e)
